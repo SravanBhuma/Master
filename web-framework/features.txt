@@ -1,0 +1,13 @@
+Framework Version: SeleniumWebFramework_1.0
+
+Features:
+1. Parallel Execution in (Cloud, Local, Grid)
+2. Execute for multiple environments(QA, UAT)
+3. BrokenLinks, JavaScriptErrors, PageLoadTimes
+4. Excel reading(Fillo)
+5. Latest HTML reporting
+6. Screenshots(All/Fail)
+7. Module wise Email and Consolidated Email
+8. Rerun failed scripts
+9. Run in headless mode (Chrome/Firefox)
+10. Rest API testing

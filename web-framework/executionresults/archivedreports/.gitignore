@@ -1,0 +1,6 @@
+web-framework/executionresults/
+web-framework/test-output/
+web-framework/target/
+web-framework/.idea/
+web-framework/.classpath
+*.class

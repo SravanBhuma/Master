@@ -1,0 +1,10 @@
+executionresults/archivedreports/archivedreports*/
+test-output/
+target/
+<<<<<<< HEAD
+*.class
+=======
+.classpath
+*.class
+bin/
+>>>>>>> 64202be81708caa5af6b54c0fb96b4b1a5df79dc

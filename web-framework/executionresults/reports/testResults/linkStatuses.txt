@@ -1,0 +1,243 @@
+
+Script Name: TS_CreateLead || Browser : chrome || Page Name: Home
+
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text : 0 ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text : Test Admin ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home#control-sidebar-home-tab ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+
+Script Name: TS_CreateSearchDeleteLead || Browser : chrome || Page Name: Home
+
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : 0 ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : Test Admin ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home#control-sidebar-home-tab ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+
+Script Name: TS_CreateSearchDeleteLead || Browser : chrome || Page Name: Create Lead
+
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+
+Script Name: TS_CreateSearchDeleteLead || Browser : chrome || Page Name: GetLeadDetails
+
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Link text :  ||| URL : http://demo.ggktech.com/Grid/ExportFile ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.abenzymes.com/ ||| URL : http://www.abenzymes.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.ab-ovo.com ||| URL : http://www.ab-ovo.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.abab.nl ||| URL : http://www.abab.nl/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.abacusemedia.com ||| URL : http://www.abacusemedia.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : abellio.com ||| URL : http://abellio.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.abcam.com ||| URL : http://www.abcam.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.abelandcole.co.uk ||| URL : http://www.abelandcole.co.uk/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.aberdeen-asset.com ||| URL : http://www.aberdeen-asset.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : www.aberia.no ||| URL : http://www.aberia.no/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateSearchDeleteLead ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+
+Script Name: TS_CreateLead || Browser : chrome || Page Name: Home
+
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text : 0 ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text : Test Admin ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Lead Source ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Lead Status ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Industry ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Resource ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home#control-sidebar-home-tab ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+
+Script Name: TS_CreateLead || Browser : chrome || Page Name: Create Lead
+
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CreateLead ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CreateLead ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CreateLead ||| Exception : class java.net.SocketTimeoutException ||| Link text :  ||| URL : http://demo.ggktech.com/Lead/CreateLead#
+
+Script Name: TS_CountNumberOfRecords || Browser : chrome || Page Name: Home
+
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text : 0 ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text : Test Admin ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Lead Source ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Lead Status ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Industry ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Resource ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text : Record Count ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home#control-sidebar-home-tab ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home# ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+
+Script Name: TS_CountNumberOfRecords || Browser : chrome || Page Name: GetLeadDetails
+
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Dashboard/Home ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplate ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Email/EmailTemplateSearch ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : javascript:void(0)
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Link text :  ||| URL : http://demo.ggktech.com/Grid/ExportFile ||| 500 ||| Internal Server Error
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Exception : class java.net.MalformedURLException ||| Link text :  ||| URL : null
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.abenzymes.com/ ||| URL : http://www.abenzymes.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.abcam.com ||| URL : http://www.abcam.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.ab-ovo.com ||| URL : http://www.ab-ovo.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.abab.nl ||| URL : http://www.abab.nl/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.abacusemedia.com ||| URL : http://www.abacusemedia.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : abellio.com ||| URL : http://abellio.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.aberia.no ||| URL : http://www.aberia.no/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.aberdeen-asset.com ||| URL : http://www.aberdeen-asset.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : GGK Technologies ||| URL : http://www.ggktech.com/ ||| 301 ||| Moved Permanently
+chrome ||| TS_CountNumberOfRecords ||| Link text : www.abelandcole.co.uk ||| URL : http://www.abelandcole.co.uk/ ||| 301 ||| Moved Permanently

@@ -1,0 +1,98 @@
+2019-09-27 14:50:37,999 -com.ggktech.service.PublicLibrary -INFO - TS_CreateLead is started.
+2019-09-27 14:50:37,999 -com.ggktech.service.PublicLibrary -INFO - TS_CreateSearchDeleteLead is started.
+2019-09-27 14:50:37,999 -com.ggktech.service.PublicLibrary -INFO - TS_CreateLead is started.
+2019-09-27 14:50:37,999 -com.ggktech.service.PublicLibrary -INFO - TS_CreateSearchDeleteLead is started.
+2019-09-27 14:50:38,287 -com.ggktech.service.PublicLibrary -ERROR - Exception in invokeBrowser()org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'GGKU3DELL1099', ip: '10.221.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+2019-09-27 14:50:38,287 -com.ggktech.service.PublicLibrary -ERROR - Exception in invokeBrowser()org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'GGKU3DELL1099', ip: '10.221.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+2019-09-27 14:50:38,488 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:38,488 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,014 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 14:50:44,014 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 14:50:44,020 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,021 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 14:50:44,027 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,028 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 14:50:44,033 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,038 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,040 -com.ggktech.service.PublicLibrary -ERROR - Exception in setValue()java.lang.NullPointerException
+2019-09-27 14:50:44,051 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,055 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,058 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:44,059 -com.ggktech.service.PublicLibrary -ERROR - Exception in setValue()java.lang.NullPointerException
+2019-09-27 14:50:44,061 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,056 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 14:50:47,059 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,060 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 14:50:47,064 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,067 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,067 -com.ggktech.service.PublicLibrary -ERROR - Exception in setPassword()java.lang.NullPointerException
+2019-09-27 14:50:47,069 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,070 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 14:50:47,074 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,074 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 14:50:47,076 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,080 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,086 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 14:50:47,090 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,091 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 14:50:47,094 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,099 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,100 -com.ggktech.service.PublicLibrary -ERROR - Exception in setPassword()java.lang.NullPointerException
+2019-09-27 14:50:47,103 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,103 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 14:50:47,105 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,106 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 14:50:47,108 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,110 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,131 -com.ggktech.service.PublicLibrary -ERROR - Exception in clickElement()java.lang.NullPointerException
+2019-09-27 14:50:47,131 -com.ggktech.service.PublicLibrary -ERROR - Exception in clickElement()java.lang.NullPointerException
+2019-09-27 14:50:47,134 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:50:47,137 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 14:51:42,766 -com.ggktech.service.PublicLibrary -ERROR - Exception in waitForElement()org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'Create Lead')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'GGKU3DELL1099', ip: '10.221.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\SRAVAN~1.BHU\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.132, webStorageEnabled: true}
+Session ID: 91a3fad579057702e68753c447bfff5d
+2019-09-27 14:51:42,768 -com.ggktech.utils.Reporter -INFO - TS_CreateLead is failed due to reason : ErrorCapturedorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'Create Lead')] (tried for 10 second(s) with 500 MILLISECONDS interval)
+
+2019-09-27 14:54:28,379 -com.ggktech.service.PublicLibrary -INFO - TS_CreateSearchDeleteLead is passed.
+2019-09-27 14:54:29,730 -com.ggktech.service.PublicLibrary -INFO - TS_CreateLead is started.
+2019-09-27 14:56:04,460 -com.ggktech.utils.Reporter -INFO - TS_CreateLead is failed due to reason : Verifying success message : 'Saved Successfully!!!' is displayed instead of 'Lead Saved Successfully!!!'
+2019-09-27 14:56:06,595 -com.ggktech.utils.ConsolidateJsonAndSendEmail -WARN - BuildStatus = FAIL
+2019-09-27 14:56:22,461 -com.ggktech.service.PublicLibrary -INFO - TS_CountNumberOfRecords is started.
+2019-09-27 15:00:01,856 -com.ggktech.service.PublicLibrary -INFO - TS_CountNumberOfRecords is passed.
+2019-09-27 15:00:03,027 -com.ggktech.service.PublicLibrary -INFO - TS_CountNumberOfRecords is started.
+2019-09-27 15:00:03,041 -com.ggktech.service.PublicLibrary -ERROR - Exception in invokeBrowser()org.openqa.selenium.WebDriverException: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'GGKU3DELL1099', ip: '10.221.0.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: unknown
+2019-09-27 15:00:06,046 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 15:00:06,049 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:06,049 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 15:00:06,050 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:06,052 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:06,052 -com.ggktech.service.PublicLibrary -ERROR - Exception in setValue()java.lang.NullPointerException
+2019-09-27 15:00:06,054 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,055 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 15:00:09,057 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,057 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 15:00:09,059 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,060 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,061 -com.ggktech.service.PublicLibrary -ERROR - Exception in setPassword()java.lang.NullPointerException
+2019-09-27 15:00:09,064 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,065 -com.ggktech.service.PublicLibrary -ERROR - Exception in fluentWait()java.lang.NullPointerException
+2019-09-27 15:00:09,067 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,067 -com.ggktech.service.PublicLibrary -ERROR - Exception in verifyElementExist()java.lang.NullPointerException
+2019-09-27 15:00:09,069 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,071 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:09,072 -com.ggktech.service.PublicLibrary -ERROR - Exception in clickElement()java.lang.NullPointerException
+2019-09-27 15:00:09,073 -com.ggktech.utils.Reporter -ERROR - Exception in report method java.lang.NullPointerException
+2019-09-27 15:00:18,344 -com.ggktech.utils.ConsolidateJsonAndSendEmail -WARN - BuildStatus = PASS
+2019-09-27 15:00:34,950 -com.ggktech.utils.ConsolidateJsonAndSendEmail -WARN - BuildStatus = FAIL
