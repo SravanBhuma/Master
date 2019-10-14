@@ -41,6 +41,7 @@ import com.ggktech.utils.Status;
 /**
  * Class that contains the functions related to particular application.
  */
+
 public class ApplicationLibrary extends PublicLibrary {
 	private static final Logger LOGGER = Logger.getLogger(ApplicationLibrary.class);
 	private String filePathExcel = "";
