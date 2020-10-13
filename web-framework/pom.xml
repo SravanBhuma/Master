@@ -18,7 +18,7 @@
 		<maven-site-plugin.version>3.6</maven-site-plugin.version>
 		<maven-javadoc-plugin.version>3.0.0-M1</maven-javadoc-plugin.version>
 		<exec-maven-plugin.version>1.6.0</exec-maven-plugin.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<testng.version>6.11</testng.version>
 		<selenium.version>3.8.1</selenium.version>
 		<poi.version>3.16</poi.version>
